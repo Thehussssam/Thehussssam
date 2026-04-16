@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Houssam El Mouden</h1>
 <h3 align="center">Full Stack Web Developer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thehussssam&label=Profile%20views&color=0e75b6&style=flat" alt="thehussssam" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thehussssam" alt="thehussssam" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/houssamelm99317" target="blank"><img src="https://img.shields.io/twitter/follow/houssamelm99317?logo=twitter&style=for-the-badge" alt="houssamelm99317" /></a> </p>
 
 - 🌱 I’m currently learning **Laravel, JavaScript advanced concepts, Git & GitHub**
