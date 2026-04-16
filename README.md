@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Houssam El Mouden</h1>
 <h3 align="center">Full Stack Web Developer from Morocco</h3>
 
-<p align="left"> <a href="https://twitter.com/houssamelm99317" target="blank"><img src="https://img.shields.io/twitter/follow/houssamelm99317?logo=twitter&style=for-the-badge" alt="houssamelm99317" /></a> </p>
 
 - 🌱 I’m currently learning **Laravel, JavaScript advanced concepts, Git & GitHub**
 
